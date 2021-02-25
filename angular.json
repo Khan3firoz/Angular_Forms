@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "form"
+  "defaultProject": "form",
+  "cli": {
+    "analytics": "4c9c7b43-992b-4a61-86e8-f3dc80587ce2"
+  }
 }
